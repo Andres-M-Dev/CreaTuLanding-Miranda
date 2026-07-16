@@ -1,0 +1,97 @@
+.itemdetail {
+  display: flex;
+  gap: 60px;
+  align-items: flex-start;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.itemdetail-img-container {
+  flex: 0 0 380px;
+  background-color: rgba(14, 9, 4, 0.7);
+  border: 1px solid rgba(184, 134, 11, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  aspect-ratio: 1 / 1;
+}
+
+.itemdetail-img {
+  width: 80%;
+  height: 80%;
+  object-fit: contain;
+  filter: drop-shadow(0 0 12px rgba(184, 134, 11, 0.3));
+}
+
+.itemdetail-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  padding-top: 10px;
+}
+
+.itemdetail-name {
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--color-gold-bright);
+  line-height: 1.4;
+}
+
+.itemdetail-description {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: 15px;
+  font-style: italic;
+  color: var(--color-parchment);
+  line-height: 1.8;
+  opacity: 0.85;
+}
+
+.itemdetail-price {
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: 24px;
+  color: var(--color-gold-bright);
+}
+
+.itemdetail-stock {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: 13px;
+  color: var(--color-parchment-dim);
+}
+
+.itemdetail-divider {
+  border-top: 1px solid rgba(184, 134, 11, 0.25);
+  margin: 4px 0;
+}
+
+.itemdetail-sin-stock {
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: 13px;
+  letter-spacing: 0.06em;
+  color: #c0392b;
+}
+
+.itemdetail-ver-carrito {
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  color: var(--color-gold-bright);
+  border: 1px solid rgba(184, 134, 11, 0.45);
+  padding: 10px 20px;
+  width: fit-content;
+  text-decoration: none;
+}
+
+@media (max-width: 700px) {
+  .itemdetail {
+    flex-direction: column;
+    gap: 28px;
+  }
+  .itemdetail-img-container {
+    flex: none;
+    width: 100%;
+  }
+}

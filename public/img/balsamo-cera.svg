@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 680 680">
+<rect width="680" height="680" fill="#1e1208"/>
+<text x="82" y="122" font-family="serif" font-size="50" fill="#b8860b" opacity="0.07">ᛒ</text>
+<ellipse cx="340" cy="575" rx="110" ry="20" fill="#0e0904" opacity="0.7"/>
+<ellipse cx="340" cy="265" rx="110" ry="22" fill="#3d2208" opacity="0.95"/>
+<ellipse cx="340" cy="265" rx="110" ry="22" fill="none" stroke="#b8860b" stroke-width="1.2" opacity="0.7"/>
+<path d="M230 265 L230 285 Q230 295 340 300 Q450 295 450 285 L450 265 Q450 275 340 280 Q230 275 230 265Z" fill="#2a1605" stroke="#b8860b" stroke-width="0.8" opacity="0.8"/>
+<path d="M232 285 L232 545 Q232 570 340 575 Q448 570 448 545 L448 285 Q448 295 340 300 Q232 295 232 285Z" fill="#3d2208" stroke="#b8860b" stroke-width="1.2" opacity="0.9"/>
+<rect x="295" y="295" width="12" height="240" rx="3" fill="#d4a020" opacity="0.12"/>
+<path d="M340 315 L358 325 L358 345 L340 355 L322 345 L322 325 Z" fill="none" stroke="#c8a030" stroke-width="1" opacity="0.45"/>
+<path d="M358 325 L376 315 L376 335 L358 345 Z" fill="none" stroke="#c8a030" stroke-width="0.8" opacity="0.3"/>
+<path d="M322 325 L304 315 L304 335 L322 345 Z" fill="none" stroke="#c8a030" stroke-width="0.8" opacity="0.3"/>
+<path d="M340 355 L358 345 L358 365 L340 375 L322 365 L322 345 Z" fill="none" stroke="#c8a030" stroke-width="0.8" opacity="0.3"/>
+<rect x="258" y="390" width="164" height="130" rx="2" fill="#1a0e06" stroke="#b8860b" stroke-width="1" opacity="0.95"/>
+<rect x="264" y="396" width="152" height="118" rx="1" fill="none" stroke="#b8860b" stroke-width="0.5" opacity="0.35"/>
+<ellipse cx="340" cy="418" rx="10" ry="7" fill="#c8a030" opacity="0.6"/>
+<ellipse cx="340" cy="416" rx="5" ry="3.5" fill="#2a1a08" opacity="0.5"/>
+<text x="340" y="440" font-family="Georgia, serif" font-size="11" fill="#c8a96e" text-anchor="middle" font-style="italic">Yggdralixir</text>
+<text x="340" y="456" font-family="Georgia, serif" font-size="9" fill="#c8a030" text-anchor="middle" letter-spacing="1.5">BÁLSAMO</text>
+<line x1="272" y1="463" x2="408" y2="463" stroke="#b8860b" stroke-width="0.5" opacity="0.5"/>
+<text x="340" y="477" font-family="Georgia, serif" font-size="8" fill="#c8a96e" text-anchor="middle" opacity="0.7">Cera de abeja · Miel pura · 50g</text>
+<text x="340" y="491" font-family="Georgia, serif" font-size="8" fill="#c8a96e" text-anchor="middle" opacity="0.6">Sin parabenos · Artesanal</text>
+<text x="340" y="262" font-family="serif" font-size="20" fill="#c8a030" text-anchor="middle" opacity="0.55">ᛒ</text>
+</svg>

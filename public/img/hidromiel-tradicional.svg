@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 680 680">
+<rect width="680" height="680" fill="#1e1208"/>
+<text x="80" y="120" font-family="serif" font-size="48" fill="#b8860b" opacity="0.08">ᚠ</text>
+<text x="560" y="200" font-family="serif" font-size="36" fill="#b8860b" opacity="0.07">ᚢ</text>
+<ellipse cx="340" cy="590" rx="90" ry="18" fill="#0e0904" opacity="0.7"/>
+<path d="M280 520 Q270 460 265 400 Q258 330 260 280 L260 220 Q260 200 280 195 L305 190 L305 160 Q305 130 320 120 L340 115 L360 120 Q375 130 375 160 L375 190 L400 195 Q420 200 420 220 L420 280 Q422 330 415 400 Q410 460 400 520 Z" fill="#2a1a08"/>
+<path d="M280 520 Q270 460 265 400 Q258 330 260 280 L260 220 Q260 200 280 195 L305 190 L305 160 Q305 130 320 120 L340 115 L360 120 Q375 130 375 160 L375 190 L400 195 Q420 200 420 220 L420 280 Q422 330 415 400 Q410 460 400 520 Z" fill="none" stroke="#b8860b" stroke-width="1.2" opacity="0.6"/>
+<path d="M288 515 Q278 458 273 400 Q267 332 269 283 L269 228 Q272 212 288 208 L305 204 L305 175 Q306 148 319 138 L340 133 L361 138 Q374 148 375 175 L375 204 L392 208 Q408 212 411 228 L411 283 Q413 332 407 400 Q401 458 392 515 Z" fill="#7a4a12" opacity="0.55"/>
+<rect x="305" y="155" width="70" height="40" rx="4" fill="#2a1a08" stroke="#b8860b" stroke-width="1" opacity="0.8"/>
+<rect x="318" y="105" width="44" height="28" rx="6" fill="#5c3d1e" stroke="#b8860b" stroke-width="0.8" opacity="0.5"/>
+<rect x="278" y="300" width="124" height="160" rx="3" fill="#1a0e06" stroke="#b8860b" stroke-width="1" opacity="0.9"/>
+<path d="M320 330 Q340 318 360 330 Q372 340 360 352 Q340 364 320 352 Q308 340 320 330Z" fill="none" stroke="#c8a030" stroke-width="1.2" opacity="0.7"/>
+<text x="340" y="382" font-family="Georgia, serif" font-size="11" fill="#c8a96e" text-anchor="middle" font-style="italic">Yggdralixir</text>
+<text x="340" y="398" font-family="Georgia, serif" font-size="9" fill="#c8a030" text-anchor="middle" letter-spacing="2">TRADICIONAL</text>
+<line x1="295" y1="407" x2="385" y2="407" stroke="#b8860b" stroke-width="0.5" opacity="0.5"/>
+<text x="340" y="422" font-family="Georgia, serif" font-size="8" fill="#c8a96e" text-anchor="middle" opacity="0.7">Hidromiel Artesanal · 750 ml</text>
+</svg>

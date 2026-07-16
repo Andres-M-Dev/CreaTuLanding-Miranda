@@ -1,0 +1,64 @@
+.checkout-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 420px;
+  margin: 0 auto;
+}
+
+.checkout-form-field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.checkout-form-field label {
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  color: var(--color-gold-bright);
+}
+
+.checkout-form-field input {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: 15px;
+  background-color: rgba(14, 9, 4, 0.7);
+  border: 1px solid rgba(184, 134, 11, 0.3);
+  color: var(--color-parchment);
+  padding: 10px 14px;
+}
+
+.checkout-form-field input:focus {
+  outline: none;
+  border-color: var(--color-gold-bright);
+}
+
+.checkout-form-error {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: 12px;
+  font-style: italic;
+  color: #c0392b;
+}
+
+.checkout-form-submit {
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: 13px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  background-color: var(--color-gold);
+  color: var(--color-bg);
+  border: none;
+  padding: 14px 24px;
+  cursor: pointer;
+  margin-top: 10px;
+  transition: background-color 0.2s;
+}
+
+.checkout-form-submit:hover:not(:disabled) {
+  background-color: var(--color-gold-bright);
+}
+
+.checkout-form-submit:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}

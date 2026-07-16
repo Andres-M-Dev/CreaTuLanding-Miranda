@@ -1,0 +1,27 @@
+.loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 50vh;
+  gap: 16px;
+}
+
+.loading-rune {
+  font-size: 48px;
+  color: var(--color-gold);
+  animation: pulse 1.5s ease-in-out infinite;
+}
+
+.loading-text {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-style: italic;
+  font-size: 18px;
+  color: var(--color-parchment-dim);
+  letter-spacing: 0.06em;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.3; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.1); }
+}

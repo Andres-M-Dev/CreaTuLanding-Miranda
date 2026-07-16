@@ -1,0 +1,55 @@
+.itemcount {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.itemcount-controls {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.itemcount-btn {
+  width: 36px;
+  height: 36px;
+  font-size: 20px;
+  font-family: 'Cinzel', Georgia, serif;
+  background: transparent;
+  border: 1px solid rgba(184, 134, 11, 0.45);
+  color: var(--color-gold-bright);
+  cursor: pointer;
+  transition: background-color 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.itemcount-btn:hover {
+  background-color: rgba(184, 134, 11, 0.12);
+}
+
+.itemcount-value {
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: 18px;
+  color: var(--color-parchment);
+  min-width: 24px;
+  text-align: center;
+}
+
+.itemcount-add {
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: 12px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-bg);
+  background-color: var(--color-gold);
+  border: none;
+  padding: 12px 24px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.itemcount-add:hover {
+  background-color: var(--color-gold-bright);
+}

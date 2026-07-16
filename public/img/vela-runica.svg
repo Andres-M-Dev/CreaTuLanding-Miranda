@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 680 680">
+<rect width="680" height="680" fill="#1e1208"/>
+<text x="80" y="120" font-family="serif" font-size="52" fill="#b8860b" opacity="0.07">ᛉ</text>
+<ellipse cx="340" cy="158" rx="28" ry="40" fill="#c87820" opacity="0.06"/>
+<path d="M340 105 Q352 125 348 148 Q344 165 340 170 Q336 165 332 148 Q328 125 340 105Z" fill="#e8a030" opacity="0.9"/>
+<path d="M340 115 Q348 130 345 150 Q342 163 340 168 Q338 163 335 150 Q332 130 340 115Z" fill="#f0c060" opacity="0.8"/>
+<path d="M340 128 Q344 140 342 155 Q341 162 340 165 Q339 162 338 155 Q336 140 340 128Z" fill="#fff8e0" opacity="0.7"/>
+<line x1="340" y1="170" x2="340" y2="185" stroke="#2a1a08" stroke-width="1.5"/>
+<rect x="290" y="185" width="100" height="340" rx="6" fill="#c8950a" opacity="0.85"/>
+<rect x="290" y="185" width="100" height="340" rx="6" fill="none" stroke="#b8860b" stroke-width="1" opacity="0.7"/>
+<ellipse cx="340" cy="185" rx="50" ry="10" fill="#d4a020" opacity="0.9"/>
+<rect x="295" y="195" width="12" height="300" rx="3" fill="#d4a020" opacity="0.2"/>
+<line x1="340" y1="280" x2="340" y2="420" stroke="#2a1a08" stroke-width="2.5" opacity="0.7"/>
+<line x1="340" y1="300" x2="316" y2="340" stroke="#2a1a08" stroke-width="2" opacity="0.7"/>
+<line x1="340" y1="300" x2="364" y2="340" stroke="#2a1a08" stroke-width="2" opacity="0.7"/>
+<text x="340" y="460" font-family="Georgia, serif" font-size="10" fill="#2a1a08" text-anchor="middle" opacity="0.6" letter-spacing="1">ALGIZ</text>
+<rect x="290" y="220" width="100" height="4" rx="2" fill="#2a1a08" opacity="0.3"/>
+<rect x="290" y="490" width="100" height="4" rx="2" fill="#2a1a08" opacity="0.3"/>
+<rect x="278" y="525" width="124" height="20" rx="4" fill="#8a6010" opacity="0.8" stroke="#b8860b" stroke-width="0.8"/>
+<ellipse cx="340" cy="548" rx="70" ry="12" fill="#0e0904" opacity="0.6"/>
+</svg>

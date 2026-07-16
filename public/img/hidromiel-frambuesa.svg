@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 680 680">
+<rect width="680" height="680" fill="#1e1208"/>
+<text x="85" y="125" font-family="serif" font-size="50" fill="#b8860b" opacity="0.07">ᚱ</text>
+<ellipse cx="340" cy="590" rx="88" ry="16" fill="#0e0904" opacity="0.7"/>
+<path d="M282 520 Q272 462 267 400 Q260 330 262 280 L262 220 Q262 198 282 192 L306 188 L306 160 Q306 128 320 118 L340 113 L360 118 Q374 128 374 160 L374 188 L398 192 Q418 198 418 220 L418 280 Q420 330 413 400 Q408 462 398 520 Z" fill="#2a0a0a"/>
+<path d="M282 520 Q272 462 267 400 Q260 330 262 280 L262 220 Q262 198 282 192 L306 188 L306 160 Q306 128 320 118 L340 113 L360 118 Q374 128 374 160 L374 188 L398 192 Q418 198 418 220 L418 280 Q420 330 413 400 Q408 462 398 520 Z" fill="none" stroke="#b8860b" stroke-width="1.2" opacity="0.6"/>
+<path d="M290 514 Q280 458 275 400 Q269 332 270 282 L270 224 Q273 208 290 203 L306 199 L306 166 Q308 138 320 127 L340 122 L360 127 Q372 138 374 166 L374 199 L390 203 Q407 208 410 224 L410 282 Q412 332 405 400 Q400 458 390 514 Z" fill="#6b1428" opacity="0.65"/>
+<rect x="306" y="155" width="68" height="38" rx="3" fill="#2a0a0a" stroke="#b8860b" stroke-width="1" opacity="0.8"/>
+<rect x="319" y="104" width="42" height="26" rx="6" fill="#4a1520" stroke="#b8860b" stroke-width="0.8" opacity="0.5"/>
+<circle cx="165" cy="280" r="12" fill="#6b1428" opacity="0.8"/>
+<circle cx="159" cy="276" r="5" fill="#8b2040" opacity="0.9"/>
+<circle cx="171" cy="276" r="5" fill="#8b2040" opacity="0.9"/>
+<circle cx="165" cy="286" r="5" fill="#7b1a34" opacity="0.9"/>
+<circle cx="495" cy="380" r="10" fill="#6b1428" opacity="0.7"/>
+<circle cx="490" cy="377" r="4" fill="#8b2040" opacity="0.9"/>
+<circle cx="500" cy="377" r="4" fill="#8b2040" opacity="0.9"/>
+<circle cx="495" cy="385" r="4" fill="#7b1a34" opacity="0.9"/>
+<rect x="278" y="298" width="124" height="162" rx="3" fill="#1a0606" stroke="#b8860b" stroke-width="1" opacity="0.95"/>
+<circle cx="340" cy="335" r="18" fill="none" stroke="#b8860b" stroke-width="0.8" opacity="0.5"/>
+<path d="M340 317 L340 353 M322 335 L358 335 M327 322 L353 348 M353 322 L327 348" stroke="#c8a030" stroke-width="0.8" opacity="0.6"/>
+<text x="340" y="370" font-family="Georgia, serif" font-size="11" fill="#c8a96e" text-anchor="middle" font-style="italic">Yggdralixir</text>
+<text x="340" y="385" font-family="Georgia, serif" font-size="9" fill="#c8a030" text-anchor="middle" letter-spacing="1.5">FRAMBUESA</text>
+<line x1="290" y1="393" x2="390" y2="393" stroke="#b8860b" stroke-width="0.5" opacity="0.5"/>
+<text x="340" y="407" font-family="Georgia, serif" font-size="8" fill="#c8a96e" text-anchor="middle" opacity="0.7">Melomel · Cosecha Propia · 750 ml</text>
+</svg>

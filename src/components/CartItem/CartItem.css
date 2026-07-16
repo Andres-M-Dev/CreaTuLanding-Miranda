@@ -1,0 +1,65 @@
+.cart-item {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 20px 0;
+  border-bottom: 1px solid rgba(184, 134, 11, 0.2);
+}
+
+.cart-item-img {
+  width: 70px;
+  height: 70px;
+  object-fit: contain;
+  background-color: rgba(14, 9, 4, 0.7);
+  border: 1px solid rgba(184, 134, 11, 0.2);
+  padding: 8px;
+}
+
+.cart-item-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.cart-item-name {
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: 15px;
+  color: var(--color-gold-bright);
+}
+
+.cart-item-unit,
+.cart-item-quantity {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: 13px;
+  color: var(--color-parchment-dim);
+}
+
+.cart-item-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px;
+}
+
+.cart-item-subtotal {
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: 16px;
+  color: var(--color-gold-bright);
+}
+
+.cart-item-remove {
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  background: transparent;
+  border: 1px solid rgba(184, 134, 11, 0.4);
+  color: var(--color-parchment);
+  padding: 6px 14px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.cart-item-remove:hover {
+  background-color: rgba(184, 134, 11, 0.12);
+}

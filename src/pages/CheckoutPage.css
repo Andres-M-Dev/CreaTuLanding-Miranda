@@ -1,0 +1,59 @@
+.checkout-page {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.checkout-titulo {
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: 22px;
+  letter-spacing: 0.06em;
+  color: var(--color-gold-bright);
+  text-align: center;
+  margin-bottom: 12px;
+}
+
+.checkout-total {
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: 16px;
+  color: var(--color-parchment);
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.checkout-success {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  padding: 80px 0;
+  text-align: center;
+}
+
+.checkout-success-rune {
+  font-size: 40px;
+  color: var(--color-gold);
+}
+
+.checkout-success-message {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-style: italic;
+  font-size: 19px;
+  color: var(--color-parchment);
+}
+
+.checkout-success-order {
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: 14px;
+  color: var(--color-gold-bright);
+}
+
+.checkout-success-link {
+  font-family: 'Cinzel', Georgia, serif;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  color: var(--color-gold-bright);
+  border: 1px solid rgba(184, 134, 11, 0.45);
+  padding: 10px 24px;
+  text-decoration: none;
+  margin-top: 10px;
+}
